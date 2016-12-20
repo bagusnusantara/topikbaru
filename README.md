@@ -1,5 +1,9 @@
-# topikbaru
-Dibuat untuk mengerjakan tugas Final ProjectKelas D 2016
+# FTP Server - Client
+
+
+Dibuat untuk mengerjakan tugas Final Project (FP) Pemrograman Jaringan Kelas D 2016.
+
+
 Di sini kami memilih topik [Membuat FTP Server dan Klien] dengan ketentuan sebagai berikut :
 - Membuat aplikasi FTP klien dan server
 - Autentikasi (USER dan PASS: 4.1.1)
