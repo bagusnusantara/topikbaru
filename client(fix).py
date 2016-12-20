@@ -2,7 +2,7 @@ import socket
 import time
 import os
 
-ftp_address = ('10.181.1.239', 2016)
+ftp_address = ('localhost', 2728)
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect(ftp_address)
 
@@ -22,7 +22,7 @@ while True:
         break
     elif cmd == 'PASV':
         if pasv_status == False:
-            ftp_data = ('10.181.1.239', 42728)
+            ftp_data = ('localhost', 42728)
             client_socket_data = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             client_socket_data.connect(ftp_data)
             pasv_status = True
@@ -91,3 +91,4 @@ while True:
 
 
 client_socket.close()
+
