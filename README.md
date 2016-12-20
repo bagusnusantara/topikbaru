@@ -4,10 +4,10 @@
 Dibuat untuk mengerjakan tugas Final Project (FP) Pemrograman Jaringan Kelas D 2016.
 
 Anggota Kelompok 7:
-5112100186	Andre Abdirrosyid
-5114100004	Adetiya Bagus N
-5114100007	Magista Bella P
-5114100060	Monica Indah H
+* 5112100186	Andre Abdirrosyid
+* 5114100004	Adetiya Bagus N
+* 5114100007	Magista Bella P
+* 5114100060	Monica Indah H
 
 
 Di sini kami memilih topik [Membuat FTP Server dan Klien] dengan ketentuan sebagai berikut :
